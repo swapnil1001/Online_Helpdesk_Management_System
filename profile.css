@@ -1,0 +1,47 @@
+#wrapper {
+    width: 1300px;
+    height: 1600px;
+    font-style: italic;
+    background-color: #5ff3e3;
+    margin: 0px auto;
+  }
+ #header {
+  	width: 100%px;
+    height: 1500px;
+    display: block;
+    background-color: #5ff3e3;
+  }
+ #backtotop {
+    display: block;
+    font-style: bold;
+    margin-bottom: 30px;
+    background-color: #5ff3e3;
+  }
+  #yis-banner yis-2015{
+  	background-image: url('download.jpg');
+  	width:450px; 
+  	height:450px;
+}
+p{
+	font-family: courier;
+	border: 1px solid powderblue;
+	
+}
+
+#content img{
+  float: left;
+  width: 200px;
+  height: 200px;
+
+}
+#footer img{
+  float: right;
+  width: 200px;
+  height: 200px;
+  
+}
+
+h2:hover{
+  color: #000;
+  font-weight:bold;
+}
